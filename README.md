@@ -1,4 +1,4 @@
-Royal Chai – Coming Soon Landing Page
+Royal Chai – Launching Soon Landing Page
 
 Tech: HTML, CSS, JavaScript  
 Responsive: Yes  
